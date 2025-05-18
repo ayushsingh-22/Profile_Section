@@ -75,14 +75,6 @@ dependencies {
 }
 ```
 
-## 🛠 Customization
-
-You can:
-
-* Change profile content dynamically via `ProfileActivity.kt`.
-* Adjust UI elements from `activity_profile.xml`.
-* Add more sections like "Settings", "Logout", or "Notifications" for additional functionality.
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
