@@ -66,9 +66,6 @@ Follow these steps to run the project locally on Android Studio:
 * `values/` – Colors, styles, and strings resources.
 
 ## 📦 Dependencies
-
-Ensure your `build.gradle` includes the following:
-
 ```gradle
 dependencies {
     implementation 'androidx.appcompat:appcompat:1.6.1'
